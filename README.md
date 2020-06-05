@@ -14,6 +14,7 @@ which has to be installed as well!
 ## Features
 
 - Reads the tasks from the project's `Rakefile`.
+- The default task will be `default`, even if you don't have it defined.
 - See the [build package](https://github.com/noseglid/atom-build)
   for more details how to use it.
 
